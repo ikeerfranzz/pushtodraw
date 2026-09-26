@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: d4020e8332a00e64abc61750464576a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1194208276330001401
+    second: text_soundeffectsassets__0
+  - first:
+      213: -4000007379644508621
+    second: text_soundeffectsassets__1
+  - first:
+      213: 7317081499429411218
+    second: text_soundeffectsassets__2
+  - first:
+      213: 6969598978385696385
+    second: text_soundeffectsassets__3
+  - first:
+      213: 185480021108269964
+    second: text_soundeffectsassets__4
+  - first:
+      213: -2905962938591267563
+    second: text_soundeffectsassets__5
+  - first:
+      213: -5473008263156675454
+    second: text_soundeffectsassets__6
+  - first:
+      213: 2312597682680093858
+    second: text_soundeffectsassets__7
+  - first:
+      213: 549388775570561834
+    second: text_soundeffectsassets__8
+  - first:
+      213: 5938707927122363850
+    second: text_soundeffectsassets__9
+  - first:
+      213: -6760790395449033455
+    second: text_soundeffectsassets__10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: text_soundeffectsassets__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cc48d56e15d6fe0800000000000000
+      internalID: -1194208276330001401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_soundeffectsassets__1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 9
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336195d2b7e1d78c0800000000000000
+      internalID: -4000007379644508621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_soundeffectsassets__2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 10
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299921e2bde7b8560800000000000000
+      internalID: 7317081499429411218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_soundeffectsassets__3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 11
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186da95285df8b060800000000000000
+      internalID: 6969598978385696385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_soundeffectsassets__4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c832713b815f29200800000000000000
+      internalID: 185480021108269964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_soundeffectsassets__5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 13
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51531d29a12fba7d0800000000000000
+      internalID: -2905962938591267563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_soundeffectsassets__6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 13
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cc4cd5bf7fb04b0800000000000000
+      internalID: -5473008263156675454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_soundeffectsassets__7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 14
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acd988f65ff71020800000000000000
+      internalID: 2312597682680093858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_soundeffectsassets__8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 15
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b587b3e22df9700800000000000000
+      internalID: 549388775570561834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_soundeffectsassets__9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 16
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5cce425678a6250800000000000000
+      internalID: 5938707927122363850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_soundeffectsassets__10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d336e94f8dc22a0800000000000000
+      internalID: -6760790395449033455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      text_soundeffectsassets__0: -1194208276330001401
+      text_soundeffectsassets__1: -4000007379644508621
+      text_soundeffectsassets__10: -6760790395449033455
+      text_soundeffectsassets__2: 7317081499429411218
+      text_soundeffectsassets__3: 6969598978385696385
+      text_soundeffectsassets__4: 185480021108269964
+      text_soundeffectsassets__5: -2905962938591267563
+      text_soundeffectsassets__6: -5473008263156675454
+      text_soundeffectsassets__7: 2312597682680093858
+      text_soundeffectsassets__8: 549388775570561834
+      text_soundeffectsassets__9: 5938707927122363850
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
