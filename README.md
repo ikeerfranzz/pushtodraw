@@ -5,7 +5,7 @@
   <img alt="Unity" src="https://img.shields.io/badge/Unity-6000.0.58f2-black?logo=unity&logoColor=white">
   <img alt="Render Pipeline" src="https://img.shields.io/badge/Render%20Pipeline-URP%202D-blue">
   <img alt="Platform" src="https://img.shields.io/badge/Platform-PC-lightgrey">
-  <img alt="Status" src="https://img.shields.io/badge/Status-Prototype-orange">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Completed-brightgreen">
 </p>
 
 **PushToDraw** is a 2D top-down puzzle game where the player pushes colored boxes across a grid to "draw" a picture — a cactus, a flower, a fish, a butterfly — one push at a time. It combines classic Sokoban-style block-pushing with an art-reveal twist: every solved level completes a piece of pixel art, and the fewer moves you use, the more stars you earn.
@@ -152,4 +152,4 @@ This repository is maintained by Iker Franzoni as a portfolio reference to the s
 
 ## 📄 Status & License
 
-This is a **student/prototype project**, not a commercial release. It is shared privately as a portfolio piece; no open-source license is granted. Please reach out before reusing any part of this code or its assets.
+This project is **complete**, built as a course project and not intended as a commercial release. It is shared privately as a portfolio piece; no open-source license is granted. Please reach out before reusing any part of this code or its assets.
